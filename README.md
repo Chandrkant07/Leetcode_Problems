@@ -11,7 +11,7 @@ My collection of LeetCode problem solutions, solved in **Python**.
 
 | Total Solved | Easy | Medium | Hard |
 |:---:|:---:|:---:|:---:|
-| 2 | 2 | 0 | 0 |
+| 3 | 3 | 0 | 0 |
 
 ---
 
@@ -20,6 +20,7 @@ My collection of LeetCode problem solutions, solved in **Python**.
 | # | Problem | Difficulty | Solution |
 |---|---------|:----------:|----------|
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy | [Python](./twosum.py) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 🟢 Easy | [Python](./PallindromeNumber.py) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | [Python](./LengthofLastWord.py) |
 
 ---
