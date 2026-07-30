@@ -11,7 +11,7 @@ My collection of LeetCode problem solutions, solved in **Python**.
 
 | Total Solved | Easy | Medium | Hard |
 |:---:|:---:|:---:|:---:|
-| 14 | 14 | 0 | 0 |
+| 28 | 27 | 1 | 0 |
 
 ---
 
@@ -25,14 +25,27 @@ My collection of LeetCode problem solutions, solved in **Python**.
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 🟢 Easy | [Python](./ValidParentheses.py) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | 🟢 Easy | [Python](./MergeTwoSortedLists.py) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy | [Python](./RemoveDuplicates.py) |
+| 28 | [Find the Index of the First Occurrence](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢 Easy | [Python](./ImplementStrStr.py) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 🟢 Easy | [Python](./SearchInsertPosition.py) |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | 🟡 Medium | [Python](./MaximumSubarray.py) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | 🟢 Easy | [Python](./LengthofLastWord.py) |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | 🟢 Easy | [Python](./PlusOne.py) |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | 🟢 Easy | [Python](./AddBinary.py) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | 🟢 Easy | [Python](./ClimbingStairs.py) |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | [Python](./MergeSortedArray.py) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | 🟢 Easy | [Python](./BestTimeToBuyAndSellStock.py) |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | 🟢 Easy | [Python](./SingleNumber.py) |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | 🟢 Easy | [Python](./LinkedListCycle.py) |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | [Python](./MajorityElement.py) |
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 🟢 Easy | [Python](./ExcelSheetColumnNumber.py) |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | [Python](./HappyNumber.py) |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | 🟢 Easy | [Python](./IsomorphicStrings.py) |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | 🟢 Easy | [Python](./ContainsDuplicate.py) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | 🟢 Easy | [Python](./ValidAnagram.py) |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy | [Python](./MissingNumber.py) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | [Python](./MoveZeroes.py) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | 🟢 Easy | [Python](./ReverseString.py) |
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | 🟢 Easy | [Python](./IntersectionOfTwoArraysII.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | 🟢 Easy | [Python](./FizzBuzz.py) |
 
 ---
