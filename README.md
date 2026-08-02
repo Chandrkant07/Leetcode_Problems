@@ -78,6 +78,7 @@ python <filename>.py
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0877-stone-game) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
@@ -95,10 +96,12 @@ python <filename>.py
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -107,4 +110,5 @@ python <filename>.py
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
