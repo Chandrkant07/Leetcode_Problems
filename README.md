@@ -11,7 +11,7 @@ My collection of LeetCode problem solutions, solved in **Python**.
 
 | Total Solved | Easy | Medium | Hard |
 |:---:|:---:|:---:|:---:|
-| 28 | 27 | 1 | 0 |
+| 29 | 27 | 1 | 1 |
 
 ---
 
@@ -47,6 +47,7 @@ My collection of LeetCode problem solutions, solved in **Python**.
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | 🟢 Easy | [Python](./ReverseString.py) |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | 🟢 Easy | [Python](./IntersectionOfTwoArraysII.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | 🟢 Easy | [Python](./FizzBuzz.py) |
+| 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | 🔴 Hard | [Python](./StoneGameIII.py) |
 
 ---
 
