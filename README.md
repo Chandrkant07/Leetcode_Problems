@@ -11,7 +11,7 @@ My collection of LeetCode problem solutions, solved in **Python**.
 
 | Total Solved | Easy | Medium | Hard |
 |:---:|:---:|:---:|:---:|
-| 31 | 28 | 2 | 1 |
+| 32 | 29 | 2 | 1 |
 
 ---
 
@@ -49,6 +49,7 @@ My collection of LeetCode problem solutions, solved in **Python**.
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | 🟢 Easy | [Python](./FizzBuzz.py) |
 | 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | 🔴 Hard | [Python](./StoneGameIII.py) |
 | 3310 | [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | 🟡 Medium | [Python](./RemoveMethodsFromProject.py) |
+| 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | 🟢 Easy | [Python](./SmallestDivisibleDigitProductI.py) |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements/) | 🟢 Easy | [Python](./FindMissingElements.py) |
 
 ---
