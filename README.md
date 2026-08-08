@@ -11,7 +11,7 @@ My collection of LeetCode problem solutions, solved in **Python**.
 
 | Total Solved | Easy | Medium | Hard |
 |:---:|:---:|:---:|:---:|
-| 33 | 29 | 2 | 2 |
+| 34 | 29 | 3 | 2 |
 
 ---
 
@@ -48,6 +48,7 @@ My collection of LeetCode problem solutions, solved in **Python**.
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | 🟢 Easy | [Python](./IntersectionOfTwoArraysII.py) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | 🟢 Easy | [Python](./FizzBuzz.py) |
 | 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | 🔴 Hard | [Python](./StoneGameIII.py) |
+| 3302 | [Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/) | 🟡 Medium | [Python](./FindLexicographicallySmallestValidSequence.py) |
 | 3310 | [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/) | 🟡 Medium | [Python](./RemoveMethodsFromProject.py) |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/) | 🟢 Easy | [Python](./SmallestDivisibleDigitProductI.py) |
 | 3348 | [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/) | 🔴 Hard | [Python](./SmallestDivisibleDigitProductII.py) |
