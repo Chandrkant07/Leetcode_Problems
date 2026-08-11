@@ -79,6 +79,7 @@ python <filename>.py
 ## Hash Table
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3731-find-missing-elements) |
 ## Math
@@ -111,6 +112,7 @@ python <filename>.py
 | [0877-stone-game](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1406-stone-game-iii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
@@ -136,6 +138,7 @@ python <filename>.py
 ## Sorting
 |  |
 | ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3731-find-missing-elements) |
 ## Depth-First Search
 |  |
