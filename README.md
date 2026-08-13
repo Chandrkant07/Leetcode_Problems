@@ -95,6 +95,7 @@ python <filename>.py
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -172,6 +173,7 @@ python <filename>.py
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
@@ -207,4 +209,20 @@ python <filename>.py
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
