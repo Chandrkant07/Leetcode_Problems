@@ -87,6 +87,7 @@ python <filename>.py
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0486-predict-the-winner](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1140-stone-game-ii) |
@@ -233,4 +234,12 @@ python <filename>.py
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
