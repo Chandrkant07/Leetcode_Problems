@@ -3,50 +3,59 @@ from typing import List
 class Solution:
     def stoneGameV(self, stoneValue: List[int]) -> int:
         n = len(stoneValue)
-
-        # Base case: if only one stone, score is 0.
         if n == 1:
             return 0
 
-        # Calculate prefix sums to get subarray sums efficiently
-        # prefix_sum[p] stores the sum of stoneValue[0...p-1]
-        prefix_sum = [0] * (n + 1)
+        prefix = [0] * (n + 1)
         for i in range(n):
-            prefix_sum[i + 1] = prefix_sum[i] + stoneValue[i]
+            prefix[i + 1] = prefix[i] + stoneValue[i]
 
-        # dp[i][j] stores the maximum score Alice can get from stoneValue[i...j]
-        # Initialize with 0s (dp[i][i] is naturally 0 as per base case)
+        def rsum(i, j):
+            return prefix[j + 1] - prefix[i]
+
         dp = [[0] * n for _ in range(n)]
+        # leftBest[i][k] = max over t in [i..k] of (rsum(i,t) + dp[i][t])
+        # rightBest[k][j] = max over t in [k..j] of (rsum(t,j) + dp[t][j])
+        leftBest = [[0] * n for _ in range(n)]
+        rightBest = [[0] * n for _ in range(n)]
 
-        # Iterate over the length of the subarray (from 2 up to n)
+        for i in range(n):
+            leftBest[i][i] = stoneValue[i]
+            rightBest[i][i] = stoneValue[i]
+
         for length in range(2, n + 1):
-            # Iterate over the starting index i
             for i in range(n - length + 1):
-                j = i + length - 1  # Calculate the corresponding ending index j
-                
-                max_score_for_current_segment = 0
-                
-                # Alice tries all possible split points k
-                # k divides [i...j] into [i...k] and [k+1...j]
-                for k in range(i, j):
-                    sum_left = prefix_sum[k + 1] - prefix_sum[i]
-                    sum_right = prefix_sum[j + 1] - prefix_sum[k + 1]
+                j = i + length - 1
 
-                    current_split_score = 0
-                    if sum_left < sum_right:
-                        # Bob discards the right row; Alice gets sum_left and plays on the left part
-                        current_split_score = sum_left + dp[i][k]
-                    elif sum_right < sum_left:
-                        # Bob discards the left row; Alice gets sum_right and plays on the right part
-                        current_split_score = sum_right + dp[k + 1][j]
-                    else: # sum_left == sum_right
-                        # Alice chooses to keep the part that maximizes her future score
-                        current_split_score = sum_left + max(dp[i][k], dp[k + 1][j])
-                    
-                    # Alice picks the split k that yields the maximum score
-                    max_score_for_current_segment = max(max_score_for_current_segment, current_split_score)
-                
-                dp[i][j] = max_score_for_current_segment
-        
-        # The final answer is the maximum score Alice can get from the entire array
+                # Find m: largest k in [i, j-1] with rsum(i,k) <= rsum(k+1,j)
+                # Condition: 2*prefix[k+1] <= prefix[j+1] + prefix[i]
+                target = prefix[j + 1] + prefix[i]
+                lo, hi, m = i, j - 1, i - 1
+                while lo <= hi:
+                    mid = (lo + hi) // 2
+                    if 2 * prefix[mid + 1] <= target:
+                        m = mid
+                        lo = mid + 1
+                    else:
+                        hi = mid - 1
+
+                best = 0
+                if m < i:
+                    # All splits have sum_left > sum_right
+                    best = rightBest[i + 1][j]
+                elif rsum(i, m) == rsum(m + 1, j):
+                    # Equal at m: left side covers [i..m], right side covers [m+1..j]
+                    best = max(leftBest[i][m], rightBest[m + 1][j])
+                else:
+                    # Strict < at m
+                    best = leftBest[i][m]
+                    if m + 2 <= j:
+                        best = max(best, rightBest[m + 2][j])
+
+                dp[i][j] = best
+
+                # Update auxiliary arrays
+                leftBest[i][j] = max(leftBest[i][j - 1], rsum(i, j) + dp[i][j])
+                rightBest[i][j] = max(rightBest[i + 1][j], rsum(i, j) + dp[i][j])
+
         return dp[0][n - 1]
