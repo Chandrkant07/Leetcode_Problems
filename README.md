@@ -79,6 +79,7 @@ python <filename>.py
 ## Hash Table
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -120,6 +121,7 @@ python <filename>.py
 | [0486-predict-the-winner](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1563-stone-game-v) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -176,6 +178,7 @@ python <filename>.py
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -241,6 +244,7 @@ python <filename>.py
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
