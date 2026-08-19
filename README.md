@@ -258,4 +258,8 @@ python <filename>.py
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
