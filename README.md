@@ -96,6 +96,7 @@ python <filename>.py
 | [1140-stone-game-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1563-stone-game-v) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
@@ -110,6 +111,7 @@ python <filename>.py
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
@@ -127,6 +129,7 @@ python <filename>.py
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3731-find-missing-elements) |
@@ -184,6 +187,7 @@ python <filename>.py
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
@@ -245,11 +249,13 @@ python <filename>.py
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0069-sqrtx) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Newton's Method
 |  |
 | ------- |
