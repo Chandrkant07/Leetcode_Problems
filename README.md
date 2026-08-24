@@ -96,6 +96,7 @@ python <filename>.py
 | [1140-stone-game-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -129,6 +130,7 @@ python <filename>.py
 | [1386-cinema-seat-allocation](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1872-stone-game-viii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -146,6 +148,7 @@ python <filename>.py
 | [1406-stone-game-iii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -160,6 +163,7 @@ python <filename>.py
 | [1406-stone-game-iii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1927-sum-game) |
 ## Sorting
 |  |
@@ -204,15 +208,18 @@ python <filename>.py
 | ------- |
 | [1140-stone-game-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1872-stone-game-viii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
