@@ -29,7 +29,7 @@ class Solution:
                 # but we can simplify: dp[i] = max(take - dp[i+k])
                 dp[i] = max(dp[i], take - dp[i + k])
 
-        if dp[0] > 0:
+        if dp[0] > 0: 
             return "Alice"
         elif dp[0] < 0:
             return "Bob"
