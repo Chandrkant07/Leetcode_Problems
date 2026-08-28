@@ -116,6 +116,7 @@ python <filename>.py
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Combinatorics
 |  |
 | ------- |
@@ -210,6 +211,7 @@ python <filename>.py
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Minimax
 |  |
 | ------- |
@@ -292,4 +294,5 @@ python <filename>.py
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
