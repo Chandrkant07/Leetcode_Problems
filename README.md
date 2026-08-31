@@ -294,6 +294,7 @@ python <filename>.py
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Enumeration
 |  |
 | ------- |
