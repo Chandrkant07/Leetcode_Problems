@@ -1,21 +1,16 @@
 class Solution:
-    def firstStableIndex(self, nums, k):
-        n = len(nums)
+    def distinctSubseqII(self, s: str) -> int:
+        MOD = 10**9 + 7
 
-        # Suffix minimum
-        suffix_min = [0] * n
-        suffix_min[n - 1] = nums[n - 1]
+        dp = 1
+        last = [0] * 26
 
-        for i in range(n - 2, -1, -1):
-            suffix_min[i] = min(nums[i], suffix_min[i + 1])
+        for ch in s:
+            i = ord(ch) - ord('a')
 
-        # Prefix maximum
-        prefix_max = nums[0]
+            new_dp = (2 * dp - last[i]) % MOD
 
-        for i in range(n):
-            prefix_max = max(prefix_max, nums[i])
+            last[i] = dp
+            dp = new_dp
 
-            if prefix_max - suffix_min[i] <= k:
-                return i
-
-        return -1
+        return (dp - 1) % MOD
