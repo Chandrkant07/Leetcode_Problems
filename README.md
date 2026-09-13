@@ -138,6 +138,7 @@ python <filename>.py
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0486-predict-the-winner) |
+| [0835-image-overlap](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
@@ -335,4 +336,8 @@ python <filename>.py
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
