@@ -96,6 +96,7 @@ python <filename>.py
 | [0069-sqrtx](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1510-stone-game-iv) |
@@ -347,4 +348,8 @@ python <filename>.py
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
