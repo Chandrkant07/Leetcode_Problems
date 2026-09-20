@@ -128,6 +128,7 @@ python <filename>.py
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -369,4 +370,8 @@ python <filename>.py
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0836-rectangle-overlap) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
