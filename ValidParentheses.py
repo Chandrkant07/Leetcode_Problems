@@ -1,23 +1,21 @@
-# LeetCode 20 - Valid Parentheses
-# https://leetcode.com/problems/valid-parentheses/
-# Difficulty: Easy
-
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        mapping = {')': '(', '}': '{', ']': '['}
+        # Map closing brackets to their matching opening brackets
+        mapping = {")": "(", "}": "{", "]": "["}
+        
         for char in s:
+            # If it is a closing bracket
             if char in mapping:
-                top = stack.pop() if stack else '#'
-                if mapping[char] != top:
+                # Pop the top element from stack if it is not empty, else assign a dummy value
+                top_element = stack.pop() if stack else '#'
+                
+                # If the mapped opening bracket doesn't match the stack's top
+                if mapping[char] != top_element:
                     return False
             else:
+                # If it is an opening bracket, push it to the stack
                 stack.append(char)
+                
+        # If stack is empty, all brackets matched correctly
         return not stack
-
-# Example usage
-if __name__ == "__main__":
-    sol = Solution()
-    print(sol.isValid("()"))       # Output: True
-    print(sol.isValid("()[]{}"))   # Output: True
-    print(sol.isValid("(]"))       # Output: False
