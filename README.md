@@ -125,6 +125,7 @@ python <filename>.py
 | [0020-valid-parentheses](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1096-brace-expansion-ii) |
@@ -190,6 +191,7 @@ python <filename>.py
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0486-predict-the-winner) |
@@ -405,6 +407,7 @@ python <filename>.py
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -414,6 +417,7 @@ python <filename>.py
 | ------- |
 | [0020-valid-parentheses](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
