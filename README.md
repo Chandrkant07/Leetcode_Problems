@@ -163,6 +163,7 @@ python <filename>.py
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0486-predict-the-winner) |
@@ -269,6 +270,7 @@ python <filename>.py
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
@@ -287,6 +289,7 @@ python <filename>.py
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
