@@ -140,6 +140,7 @@ python <filename>.py
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -423,6 +424,7 @@ python <filename>.py
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
