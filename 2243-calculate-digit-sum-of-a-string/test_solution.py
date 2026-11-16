@@ -13,6 +13,6 @@ def test_no_round_needed():
     assert s.digitSum("5", 2) == "5"
 
 
-def test_single_group_collapse():
+def test_multiple_rounds():
     s = Solution()
-    assert s.digitSum("99999", 2) == "18"
+    assert s.digitSum("99999", 2) == "99"
