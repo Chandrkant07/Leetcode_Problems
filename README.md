@@ -143,6 +143,7 @@ python <filename>.py
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -219,6 +220,7 @@ python <filename>.py
 | [1872-stone-game-viii](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3524-find-x-value-of-array-i) |
@@ -294,6 +296,7 @@ python <filename>.py
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Chandrkant07/Leetcode_Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Minimax
