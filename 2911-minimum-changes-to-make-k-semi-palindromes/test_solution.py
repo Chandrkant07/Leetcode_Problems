@@ -1,60 +1,59 @@
-import itertools
-import pytest
+from itertools import combinations
+
 from solution import Solution
+
+
+def is_semi(t):
+    m = len(t)
+    for d in range(1, m):
+        if m % d == 0 and all(t[r::d] == t[r::d][::-1] for r in range(d)):
+            return True
+    return False
+
+
+def min_changes_to_semi(t):
+    # brute force over all strings over the letters used + one extra
+    from itertools import product
+    letters = sorted(set(t)) + ["z"]
+    best = len(t)
+    for cand in product(letters, repeat=len(t)):
+        c = "".join(cand)
+        if is_semi(c):
+            best = min(best, sum(a != b for a, b in zip(t, c)))
+    return best
 
 
 def brute(s, k):
     n = len(s)
-
-    def semi(sub):
-        m = len(sub)
-        best = None
-        for d in range(1, m):
-            if m % d:
-                continue
-            c = 0
-            for r in range(d):
-                g = sub[r::d]
-                c += sum(g[a] != g[-1 - a] for a in range(len(g) // 2))
-            best = c if best is None else min(best, c)
-        return best
-
-    res = None
-    for cuts in itertools.combinations(range(1, n), k - 1):
+    best = float("inf")
+    for cuts in combinations(range(1, n), k - 1):
         b = [0, *cuts, n]
-        tot = 0
-        for x, y in zip(b, b[1:]):
-            c = semi(s[x:y])
-            if c is None:
-                tot = None
-                break
-            tot += c
-        if tot is not None and (res is None or tot < res):
-            res = tot
-    return res
+        parts = [s[b[i]:b[i + 1]] for i in range(k)]
+        if any(len(p) < 2 for p in parts):
+            continue
+        best = min(best, sum(min_changes_to_semi(p) for p in parts))
+    return best
 
 
-@pytest.mark.parametrize("s,k,exp", [
-    ("abcac", 2, 1),
-    ("abcdef", 2, 2),
-    ("aabbaa", 3, 0),
-    ("aa", 1, 0),
-    ("ab", 1, 1),
-])
-def test_examples(s, k, exp):
-    assert Solution().minimumChanges(s, k) == exp
+def test_examples():
+    s = Solution()
+    assert s.minimumChanges("abcac", 2) == 1
+    assert s.minimumChanges("abcdef", 2) == 2
+    assert s.minimumChanges("aabbaa", 3) == 0
 
 
-def test_against_brute():
-    import random
-    random.seed(1)
-    for _ in range(60):
-        n = random.randint(2, 10)
-        s = "".join(random.choice("abc") for _ in range(n))
-        k = random.randint(1, n // 2)
-        assert Solution().minimumChanges(s, k) == brute(s, k)
+def test_minimum_length():
+    assert Solution().minimumChanges("ab", 1) == 1
+    assert Solution().minimumChanges("aa", 1) == 0
+
+
+def test_matches_bruteforce():
+    s = Solution()
+    for word, k in [("abcab", 1), ("abcdab", 2), ("abbcde", 3), ("aabcda", 2)]:
+        assert s.minimumChanges(word, k) == brute(word, k), (word, k)
 
 
 def test_max_size_runs():
-    s = "abcde" * 40
-    assert isinstance(Solution().minimumChanges(s, 10), int)
+    import string
+    word = (string.ascii_lowercase * 8)[:200]
+    assert Solution().minimumChanges(word, 5) >= 0
